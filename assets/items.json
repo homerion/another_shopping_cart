@@ -1,0 +1,63 @@
+{
+  "101":
+    {
+      "id":101,
+      "product":"Shirt",
+      "price": 1.00
+    },
+    "102":
+    {
+      "id":102,
+      "product":"Shoes",
+      "price": 2.00
+    },
+    "103":
+    {
+      "id":103,
+      "product":"Pants",
+      "price": 3.00
+    },
+    "104":
+    {
+      "id":104,
+      "product":"Bag",
+      "price": 4.00
+    },
+    "105":
+    {
+      "id":105,
+      "product":"Hat",
+      "price": 5.00
+    },
+    "106":
+    {
+      "id":106,
+      "product":"Watch",
+      "price": 6.00
+    },
+    "107":
+    {
+      "id":107,
+      "product":"Glasses",
+      "price": 7.00
+    },
+    "108":
+    {
+      "id":108,
+      "product":"Earrings",
+      "price": 8.00
+    },
+    "109":
+    {
+      "id":109,
+      "product":"Sandels",
+      "price": 9.00
+    },
+    "110":
+    {
+      "id":110,
+      "product":"Socks",
+      "price": 10.00
+    }
+
+}
